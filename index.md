@@ -7,9 +7,10 @@
 
 ## 🔍 Research
 
-- Malware Analysis
-- Reverse Engineering
-- Detection Engineering
+- Reverse Engineering (Ghidra, x64dbg, assembly analysis)
+- Malware Analysis (behavioral + static analysis)
+- Detection Engineering (Splunk, Sigma, YARA)
+- Threat Hunting (IOC-based and behavior-based hunting)
 
 ## 📝 Projects
 
@@ -19,4 +20,7 @@
 
 ## ⭐ About
 
-🍁Cybersecurity researcher focused on threat hunting, reverse engineering, and detection engineering.
+🍁I’m building practical experience in reverse engineering and malware analysis,
+with a focus on translating findings into detection engineering and threat hunting content.
+
+This site documents my research, tooling, and learning progression.
